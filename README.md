@@ -1,4 +1,4 @@
-# itcast_wechat
+# mycode_online
 
 ### 运行环境搭建
 
@@ -10,7 +10,7 @@
 * 克隆项目到本地
 
   ```
-  git clone https://github.com/nmgwddj/itcast_wechat.git
+  git clone https://github.com/bxy0505/mycode_online.git
   ```
 * 创建数据库
 
@@ -42,7 +42,7 @@
   打开 `wechat/config.py` 配置文件，修改 Token、AppID、AppSecret 为你微信开发者账号所分配的信息，如下所示
 
   ```
-  WEIXIN_TOKEN = 'itcast_wechat'
+  WEIXIN_TOKEN = '*********'
   WEIXIN_APPID = 'wx63afd8910ac8****'
   WEIXIN_APPSECRET = '06abca4d83a582c46a37957c4c49****'
   ```
